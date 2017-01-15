@@ -1,2 +1,2 @@
 # MLAlgoBook
-Working on codes of the book Machine Learning, an algorithmic perspective by Stephen MarsLand
+Working on codes of the book Machine Learning, an algorithmic perspective by Stephen Marsland.
